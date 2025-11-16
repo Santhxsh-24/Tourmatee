@@ -1,0 +1,10 @@
+PlaceName,Location,State,Category,Type,Rating,Reviews,Emotion,Latitude,Longitude,ImageURL,BestPlaceInState,SuggestedInvestment,UserNeed
+"Golden Temple","Amritsar","Punjab","tourist","Temple",4.8,2500,"Happy",31.6200,74.8765,"https://images.pexels.com/photos/417074/pexels-photo-417074.jpeg","Sacred Sikh Shrine","₹2000",""
+"Taj Mahal","Agra","Uttar Pradesh","tourist","Monument",4.9,5000,"Romantic",27.1751,78.0421,"https://images.pexels.com/photos/1386604/pexels-photo-1386604.jpeg","World Heritage Wonder","₹5000",""
+"Red Fort","Delhi","Delhi","tourist","Fort",4.3,1800,"Energetic",28.6562,77.2410,"https://images.pexels.com/photos/618833/pexels-photo-618833.jpeg","Historic Mughal Fort","₹3000",""
+"Gateway of India","Mumbai","Maharashtra","tourist","Monument",4.2,2200,"Happy",18.9220,72.8347,"https://images.pexels.com/photos/1793502/pexels-photo-1793502.jpeg","Mumbai's Iconic Gateway","₹1500",""
+"Spice Garden Restaurant","Goa","Goa","food","Restaurant",4.6,450,"Happy",15.2993,74.1240,"https://images.pexels.com/photos/302899/pexels-photo-302899.jpeg","","₹500000",""
+"Coastal Delights","Kerala","Kerala","food","Seafood",4.4,320,"Romantic",9.9312,76.2673,"https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg","","₹750000",""
+"Emergency Medical Center","Bangalore","Karnataka","emergency","Hospital",4.1,180,"Critical Condition",12.9716,77.5946,"https://images.pexels.com/photos/263402/pexels-photo-263402.jpeg","","","24/7 Emergency Care"
+"Tourist Helpline","Jaipur","Rajasthan","emergency","Helpline",4.3,95,"Lost",26.9124,75.7873,"https://images.pexels.com/photos/7173019/pexels-photo-7173019.jpeg","","","Tourist Guidance & Support"
+
